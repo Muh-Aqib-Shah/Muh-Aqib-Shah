@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 ### 🌱 Full-Stack Developer & Cybersecurity Researcher
-### 📫 How to reach me: **aqib.shah.dev@gmail.com**
+### 📫 How to reach me: **aqibshah.pro@gmail.com**
 
 <br>
 
