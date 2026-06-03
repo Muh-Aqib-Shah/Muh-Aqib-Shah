@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=Muh-Aqib-Shah&label=Profile%20views&color=1ca0f2&style=plastic" alt="Muh-Aqib-Shah" />
 </p>
 
-<img align="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/221/221780.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 ### 🌱 Full-Stack Developer & Cybersecurity Researcher
 ### 📫 How to reach me: **aqib.shah.dev@gmail.com**
