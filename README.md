@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Aqib Shah</h1>
 
-<!--
-**Muh-Aqib-Shah/Muh-Aqib-Shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Muh-Aqib-Shah&label=Profile%20views&color=1ca0f2&style=plastic" alt="Muh-Aqib-Shah" />
+</p>
 
-Here are some ideas to get you started:
+<img align="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/221/221780.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Full-Stack Developer & Cybersecurity Researcher
+### 📫 How to reach me: **aqib.shah.dev@gmail.com**
+
+<br>
+
+<p align="center">
+<img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=Muh-Aqib-Shah&theme=dark" alt="Muh-Aqib-Shah" />
+</p>
+
+---
+
+### Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/aqib-shah-io" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/x_aqib_x" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### Languages and Tools:
+
+<p align="left">
+<!-- Python -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/>
+<!-- Go -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="40" height="40" alt="go"/>
+<!-- C -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="c"/>
+<!-- C++ -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cplusplus"/>
+<!-- JavaScript -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/>
+<!-- MongoDB -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="mongodb"/>
+<!-- Express -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="express"/>
+<!-- React -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react"/>
+<!-- Node.js -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="nodejs"/>
+<!-- SQL -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="sql"/>
+</p>
